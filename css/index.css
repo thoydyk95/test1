@@ -23,7 +23,7 @@ header{
 	padding: 20px 1px 1px 1px;
 }
 
-#logo a {
+#test a {
 	margin-left: 20px;
 	float: left;
 	font-weight: bold;
@@ -66,19 +66,25 @@ text-align: center;
 	padding: 30px;
 }
 
-#service {
+#about {
+	border-top-style: solid;
+	line-height: 1.5;
+	padding: 30px;
+}
+
+#skills {
+	border-top-style: solid;
+	line-height: 1.5;
+	padding: 30px;
+}
+
+#education {
 	border-top-style: solid;
 	line-height: 1.5;
 	padding: 30px;
 }
 
 #portfolio {
-	border-top-style: solid;
-	line-height: 1.5;
-	padding: 30px;
-}
-
-#feedback {
 	border-top-style: solid;
 	line-height: 1.5;
 	padding: 30px;
